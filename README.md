@@ -1,5 +1,5 @@
 <h2> Hey there! I'm sw0r3d. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img src="https://i.loli.net/2021/05/28/PXhf3DHzMvujW8a.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/array0111/array0111/blob/main/PXhf3DHzMvujW8a.png" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Currently learning go development.
